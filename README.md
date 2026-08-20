@@ -10,9 +10,10 @@
 ### 🚀 AI Marketing & Sales Automation Expert
 Specializing in **AI Agent Development** & **Complex n8n Automations**.
 
+<p>
 🔭 Working on: Advanced Multi-Agent Frameworks & Business Process Automation
 🌱 Learning: Cutting-edge LLM Orchestration & Autonomous Agents
-
+</p>
 
 <pre>
   (\__/)
