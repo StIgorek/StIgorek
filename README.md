@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./scared%20science%20fiction%20GIF.gif" alt="scared science fiction" width="300" />
+  <img src="./scared%20science%20fiction%20GIF.gif" alt="scared science fiction" width="600" />
 </p>
 
 
