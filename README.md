@@ -1,8 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Ihor - 
+
+
+### 🚀 AI Marketing & Sales Automation Expert
+Specializing in **AI Agent Development** & **Complex n8n Automations**.
+
+🔭 Working on: Advanced Multi-Agent Frameworks & Business Process Automation
+🌱 Learning: Cutting-edge LLM Orchestration & Autonomous Agents
+
+  (\__/)
+  (•ㅅ•)
+  /づ  📚       Enjoy learning AI Agents :) 
+
+   /\_/\     /\_/\     /\_/\      /\_/\       /\_/\
+  ( ^_^ )   ( -.- )   ( >_< )   ( =^.^= )    ( o_o )   
+                                               >💖< 
+
+
+
 
 <!--
-**StIgorek/StIgorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
