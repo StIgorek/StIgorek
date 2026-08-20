@@ -4,16 +4,15 @@
 
 
 <p align="center">
-  <h1>Hi there 👋 I'm Ihor</h1>## Hi there 👋 I'm Ihor - 
+  <h1>##Hi there 👋 I'm Ihor</h1>
 </p>
 
 ### 🚀 AI Marketing & Sales Automation Expert
 Specializing in **AI Agent Development** & **Complex n8n Automations**.
 
-<p>
-🔭 Working on: Advanced Multi-Agent Frameworks & Business Process Automation
-🌱 Learning: Cutting-edge LLM Orchestration & Autonomous Agents
-</p>
+<p>🔭 Working on: Advanced Multi-Agent Frameworks & Business Process Automation</p>>
+<p>🌱 Learning: Cutting-edge LLM Orchestration & Autonomous Agents</p>
+
 
 <pre>
   (\__/)
