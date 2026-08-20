@@ -13,22 +13,19 @@ Specializing in **AI Agent Development** & **Complex n8n Automations**.
 🔭 Working on: Advanced Multi-Agent Frameworks & Business Process Automation
 🌱 Learning: Cutting-edge LLM Orchestration & Autonomous Agents
 
-<p>(__/) (•ㅅ•) /づ 📚 Enjoy learning AI Agents :)</p>
 
 <pre>
- /\_/\   /\_/\   /\_/\   /\_/\   /\_/\
-( ^^ )  ( -.- ) ( >< )  (=^.^=) ( o_o )
- >💖<
-</pre>
-
   (\__/)
   (•ㅅ•)
   /づ  📚       Enjoy learning AI Agents :) 
 
+</pre>
+
+<pre>
    /\_/\     /\_/\     /\_/\      /\_/\       /\_/\
   ( ^_^ )   ( -.- )   ( >_< )   ( =^.^= )    ( o_o )   
                                                >💖< 
-
+</pre>
 
 
 
